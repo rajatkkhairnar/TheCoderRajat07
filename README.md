@@ -1,15 +1,15 @@
 # Hi there, I'm Rajat! 👋
 
-Welcome to my GitHub profile. I'm an **AI/ML Engineer** and **Data Analyst** with a strong passion for exploring the realms of **IoT** and **Web Development**.
+Welcome to my GitHub profile. I'm an **AI/ML Engineer** and **Data Scientist** with a strong passion for exploring the realms of **IoT** and **Robotics**.
 
 I love building intelligent systems, extracting insights from data, and bringing ideas to life through code, whether it's on the web, in the cloud, or interacting with the physical world.
 
 You'll find a variety of projects here showcasing my interests in:
 
 * **Artificial Intelligence & Machine Learning:** From model development to deployment.
-* **Data Analysis & Visualization:** Turning raw data into actionable insights.
+* **Data Science:** Turning raw data into actionable insights.
 * **Internet of Things (IoT):** Connecting devices and data in meaningful ways.
-* **Web Development:** Building full-stack applications (like the [Resume Improver](https://github.com/TheCoderRajat07/Resume-Improver)!) that solve real-world problems.
+* **Robotics:** Building Hardware that can solve real-world problems.
 
 ---
 
@@ -17,13 +17,12 @@ You'll find a variety of projects here showcasing my interests in:
 
 Here are some of the technologies and tools I frequently work with:
 
-**Languages:** Python, JavaScript, SQL
+**Languages:** Python, SQL
 **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-**Web Development:** Node.js, Express.js, HTML, CSS, React 
-**IoT:** Raspberry, Ardiuno 
-**Databases:** SQL
-**Cloud:** Learning AWS, GCP and Azure
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, ML core
+**IoT:** Raspberry, Arduino, ESP 
+**Databases:** SQL, Vector
+**Cloud:** Learning AWS, Azure
 **Other:** Git, Docker, RestAPI
 
 ---
@@ -40,10 +39,10 @@ Here are some of the technologies and tools I frequently work with:
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Rajat Khairnar](https://www.linkedin.com/in/rajat-khairnar-796534261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-* **Email:** [rajatkhairnar](rajatkhairnar22@gmail.com)
+* **LinkedIn:** [Rajat K. Khairnar](www.linkedin.com/in/rajat-k-khairnar-796534261)
+* **Email:** [rajatkkhairnar](rajatkkhairnar@gmail.com)
 
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile! Please feel free to explore my repositories and reach out to me.
